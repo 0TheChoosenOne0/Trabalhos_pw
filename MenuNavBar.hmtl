@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Menu</title>
+
+    <link rel="stylesheet" media="all" href="menu.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    
+
+</head>
+
+<body>
+
+
+
+<div class="header">
+
+  <h2>Fonte: WikiPédia</h2>
+
+  <p>Mateus de Campos</p><br>
+
+  <p>Kayo Henrique</p>
+
+</div>
+
+
+
+<div id="navbar">
+
+  <a class="active" href="javascript:void(0)"><i class="fa fa-fw fa-home" ></i>início</a>
+
+  <a href="javascript:void(0)"><i class="fa fa-fw fa-envelope" id="git"></i>GitHub</a>
+
+  <a href="javascript:void(0)"><i class="fa fa-fw fa-user" id="login"></i>Login</a>
+
+</div>
+
+
+
+<div class="content">
+
+    <h1>Fairfax Harrison</h1>
+
+   <p>
+
+        Fairfax Harrison[a] (Nova Iorque, 13 de março de 1869 — Alexandria, 2 de fevereiro de 1938) foi um advogado, empresário e escritor americano. Filho do secretário confederado Jefferson Davis, Harrison estudou Direito na Universidade Yale e na Universidade Columbia antes de se tornar advogado da Southern Railway Company em 1896. Em 1906, ele era vice-presidente do setor ferroviário da Southern e, no ano seguinte, ajudou a garantir financiamento para manter a empresa solvente. Em 1913, foi eleito presidente da Southern, onde instituiu uma série de reformas no funcionamento da empresa.
+
+
+
+        Em 1916, sob a chefia de Harrison, o Southern havia se expandido para 8 000 milhas em 13 estados, sua maior extensão até a década de 1950. Após a entrada dos Estados Unidos na Primeira Guerra Mundial, o governo federal assumiu o controle das ferrovias em dezembro de 1917, passando-as pela Administração Ferroviária dos Estados Unidos, na qual Harrison trabalhou. Uma explosão econômica após a guerra ajudou a empresa a expandir suas operações; Harrison trabalhou para melhorar as relações públicas da ferrovia e atualizar o estoque de locomotivas, introduzindo motores mais potentes. Outra de suas preocupações era aumentar a quantidade de trilhos e ampliar a área atendida pela ferrovia. Harrison lutou para manter a ferrovia à tona durante a Grande Depressão e, em 1936, a Southern estava mais uma vez mostrando lucro. Harrison se aposentou em 1937, com a intenção de concentrar todo seu passatempo em escrever sobre assuntos históricos, entre elas sobre as raças do cavalo puro-sangue inglês, falecendo três meses mais tarde, em fevereiro de 1938.
+
+   </p><br>
+
+   <h2>Primeiros anos:</h2>
+
+   <p>
+
+        Filho de Burton Harrison e de Constance Cary, Harrison nasceu na cidade de Nova Iorque em 13 de março de 1869.[3] Seu pai, Burton, trabalhava como secretário particular de Jefferson Davis, o presidente dos Estados Confederados da América durante a Guerra de Sucessão, enquanto que sua mãe, Cary, era uma romancista.[4] O irmão de Harrison, Francis Burton Harrison, foi governador-geral de Filipinas entre 1913 a 1921. Seu outro irmão se chamava Archibald, e todos os três frequentaram a Universidade Yale. Fairfax Harrison formou-se em Yale em 1890; ele era um membro da sociedade secreta Skull and Bones.[2] Ele passou a frequentar Universidade Columbia, concluindo o mestrado em Artes.[5]
+
+   </p>
+
+   <h2>Carreira No Setor Ferroviário:</h2>
+
+   <p>
+
+        Sucessor na Southern Railway
+
+        Harrison foi admitido na Ordem dos Advogados do Estado de Nova Iorque em 1892 e trabalhou para o escritório de advocacia Bangs, Stetson, Tracy & MacVeagh, entre 1892 a 1896.[2] Ele então ingressou na Southern Railway Company em maio de 1896 como advogado, tornando-se assistente do presidente da empresa em 1903.[3] Ele trabalhou como vice-presidente responsável pelas finanças e contabilidade a partir de 1906.[4] Durante o pânico financeiro de 1907, Harrison conseguiu persuadir o JP Morgan a comprar títulos no sul para manter a empresa solvente.[3] Após o pânico ter diminuído, Harrison foi nomeado presidente de Chicago, Indianápolis, Louisville Railway e, mais tarde, a Monon Railroad (substituiu Ira G. Rawn após a morte de Rawn),[6] que era de propriedade conjunta da Southern e da Louisville & Nashville Railroad.[7] William Finley, presidente da Southern Railway, morreu em 23 de novembro de 1913, e Harrison foi eleito seu sucessor oito dias depois.[8] Além da presidência da Southern Railway, ele também foi eleito para suceder Finley em três ferrovias subsidiárias.[9][b] Sua eleição foi considerada um sinal de mudança na Região Sul dos Estados Unidos, especialmente em suas ferrovias, tanto porque ele era sulista, quanto por seu ativismo em nome do sul.[10]
+
+   </p>
+
+   <h3>
+
+       Primeiros Anos Como Presidente
+
+   </h3>
+
+   <p>
+
+        Um dos primeiros atos de Harrison como presidente foi implementar um novo programa de treinamento para a contratação de graduados universitários pela empresa. Em vez de serem colocados em funções de supervisão, eles receberam empregos regulares de nível básico nas oficinas de motores e na construção e reparo de trilhos ferroviários, para dar-lhes uma compreensão dos fundamentos do negócio ferroviário. Ele também instituiu um programa de educação corretiva para a força de trabalho regular; eles foram treinados em matemática e outras disciplinas até a conclusão do ensino médio, bem como no básico de motores e oficinas mecânicas. O programa foi projetado para ajudar a treinar novos supervisores nas habilidades necessárias para supervisionar outros trabalhadores.[11]
+
+
+
+        Outro dos objetivos de Harrison era elevar a moral da força de trabalho e dos engenheiros das locomotivas; as tripulações foram atribuídas às mesmas locomotivas, e os engenheiros seniores foram autorizados a pintar seus nomes em seus motores. Quando os negócios declinaram em 1914, Harrison reduziu seu salário em 20 por cento, mas introduziu cortes menores e graduais para outros funcionários, com as menores porcentagens nas escalas salariais mais baixas. Outros esforços para melhorar a moral incluíram recompensas pela eficiência de combustível e a melhoria da segurança, entre elas, uma investigação mais rigorosa de acidentes.[11]
+
+        
+
+        Harrison supervisionou as mudanças no Conselho de Administração da ferrovia. Até 1915, a maioria dos membros do conselho eram da Região Norte dos Estados Unidos, mas, depois de 1915, a maioria dos membros do conselho eram sulistas. Em 1914, houve duas nomeações inusitadas para o conselho: Edwin Alderman e John Kilgo. Alderman era o presidente da Universidade da Virgínia e Kilgo era um bispo da Igreja Metodista Episcopal.[12]
+
+        
+
+        Harrison criou um departamento de comércio internacional para a ferrovia, na esperança de aproveitar a capacidade da ferrovia de se conectar ao Vale do Rio Mississippi e aos portos do Atlântico e do Golfo do México.[13] Em 1915, quando a ferrovia perdeu 12 por cento de sua receita devido a interrupções no comércio causadas pelo início da Primeira Guerra Mundial, Harrison estava preocupado com as mudanças de longo prazo em andamento. No relatório anual daquele ano, ele alertou os acionistas de que a propriedade de automóveis poderia afetar severamente as receitas de passageiros da ferrovia. Suas palavras provaram ser proféticas, pois os automóveis acabaram resultando no desaparecimento da maior parte do tráfego de trens de passageiros.[14]
+
+   </p>
+
+
+
+    </div>
+
+    <script>
+
+            window.onscroll = function() {myFunction()};
+
+            
+
+            var navbar = document.getElementById("navbar");
+
+            var sticky = navbar.offsetTop;
+
+            
+
+            function myFunction() {
+
+              if (window.pageYOffset >= sticky) {
+
+                navbar.classList.add("sticky")
+
+              } else {
+
+                navbar.classList.remove("sticky");
+
+              }
+
+            }
+
+            </script>
+
+
+
+
+
+</body>
+
+</html>
+
+  
